@@ -12,6 +12,7 @@
     <modules>
         <module>webapp</module>
         <module>external-jar</module>
+        <module>another-external-jar</module>
     </modules>
 
     <properties>
